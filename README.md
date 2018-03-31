@@ -42,6 +42,14 @@ yo babel-typescript
 
 MIT © [William Wong](http://compulim.info/)
 
+# Contributions
+
+Like us? [Star](https://github.com/compulim/generator-babel-typescript/stargazers) us.
+
+Want to make it better? [File](https://github.com/compulim/generator-babel-typescript/issues) us an issue.
+
+Don't like something you see? [Submit](https://github.com/compulim/generator-babel-typescript/pulls) a pull request.
+
 
 [npm-image]: https://badge.fury.io/js/generator-babel-typescript.svg
 [npm-url]: https://npmjs.org/package/generator-babel-typescript
