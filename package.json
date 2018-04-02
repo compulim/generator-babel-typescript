@@ -1,6 +1,6 @@
 {
   "name": "generator-babel-typescript",
-  "version": "1.0.1-0",
+  "version": "1.0.1",
   "description": "TypeScript package transpiled with Babel using babel-preset-typescript and works with Jest",
   "homepage": "https://github.com/compulim/generator-babel-typescript",
   "author": {
