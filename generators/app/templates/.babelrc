@@ -4,7 +4,9 @@
     [
       "@babel/preset-env",
       {
-        "node": "9"
+        "targets": {
+          "node": "9"
+        }
       }
     ],
     "@babel/preset-stage-3"
